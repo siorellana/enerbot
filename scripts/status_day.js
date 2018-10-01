@@ -12,6 +12,7 @@
 
 var consejos = [
     ':fire::evilparrot::fire:',
+    ':homero:',
     
   ];
   
