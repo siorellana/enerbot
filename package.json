@@ -4,23 +4,19 @@
   "main": "bin/hubot",
   "author": "Sebastian Orellana <sebastianorellana@hotmail.es>",
   "description": "EnerBot is a chat bot built on the Hubot framework.",
-
   "scripts": {
     "start": "bin/hubot -a slack",
     "dev": "bin/hubot",
     "test": "ava test",
     "precommit": "lint-staged"
   },
-
   "engines": {
     "node": ">=8"
   },
-
   "repository": {
     "type": "git",
     "url": "git://github.com/siorellana/enerbot.git"
   },
-  
   "dependencies": {
     "cheerio": "1.0.0-rc.2",
     "hubot": "^3.1.1",
