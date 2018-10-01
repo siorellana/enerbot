@@ -1,11 +1,11 @@
 // Description:
-//   Huemul te dice cuánto falta pal 18 de septiembre en Chile, fiestas patrias.
+//   Enerbot te dice cuánto falta pal 18 de septiembre en Chile, fiestas patrias.
 //
 // Dependencies:
 //   Moment
 //
 // Commands:
-//   huemul 18
+//   enerbot 18
 //
 // Author:
 //   @jorgeepunan
