@@ -22,7 +22,7 @@ module.exports = robot => {
       msg.send(`:flag-cl: ¡Hoy es 18! ¡A emborracharte!`)
     } else {
       msg.send(`:flag-cl: Quedan ${daysleft} días pa'l 18 de septiembre.`)
-      msg.send(`:huemul-huaso: ${msg.random(frases)}`)
+      msg.send(`:nyanchile: ${msg.random(frases)}`)
     }
   })
 }
