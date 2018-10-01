@@ -11,7 +11,7 @@
 //   que tal el dia  - Te dice com va el día
 
 var consejos = [
-    ':fire::evilparrot:fire:',
+    ':fire::evilparrot::fire:',
     
   ];
   
