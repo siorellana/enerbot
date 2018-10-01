@@ -9,7 +9,7 @@
 #   None
 #
 # Commands:
-#   wtf - responds with a random WITS image
+#   wtf - Envia una imagen WTFITS
 #
 # Author:
 #   aaronbassett
