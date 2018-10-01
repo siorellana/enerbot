@@ -33,6 +33,7 @@
     "moment": "2.22.1",
     "hubot-shipit": "^0.2.1",
     "hubot-slack": "^4.5.4",
+    "moment-business-days": "1.0.6",
     "whilst": "1.0.2"
   }
 }
