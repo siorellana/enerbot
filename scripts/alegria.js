@@ -8,7 +8,7 @@
 //   None
 //
 // Commands:
-//   hubot alegría|alégrame|felicidad|yay|feliz - Te alegra el día
+//   enerbot alegría|alégrame|felicidad|yay|feliz - Te alegra el día
 //
 // Author:
 //   @gmq

@@ -8,7 +8,7 @@
 //   None
 //
 // Commands:
-//   un beneficio - entrega un beneficio a la vez.
+//   enerbot un beneficio - entrega un beneficio a la vez.
 
 var beneficios = [
   'Tómate la tarde libre, proletario.',
