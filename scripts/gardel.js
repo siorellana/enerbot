@@ -8,7 +8,7 @@
 //   None
 //
 // Commands:
-//   hubot gardel
+//   hubot gardel - Muestra la cantidad de dias que quedan para dejar de ser pobre :sadparrot:
 //
 // Author:
 //   @hectorpalmatellez
