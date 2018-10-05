@@ -8,7 +8,7 @@
 //   None
 //
 // Commands:
-//   que tal el dia  - Te dice com va el día
+//   hubot que tal el dia  - Te dice com va el día
 
 var consejos = [
     ':fire::evilparrot::fire:',

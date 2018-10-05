@@ -8,7 +8,7 @@
 //   None
 //
 // Commands:
-//   enerbot pregunta|consejo  - te da un consejo según las frases de la Bola 8
+//   hubot pregunta|consejo  - te da un consejo según las frases de la Bola 8
 
 var consejos = [
   'En mi opinión, sí',

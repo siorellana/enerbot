@@ -5,7 +5,7 @@
 //   Moment
 //
 // Commands:
-//   enerbot 18 - te dice cuánto falta pal 18 de septiembre en Chile, fiestas patrias.
+//   hubot 18 - te dice cuánto falta pal 18 de septiembre en Chile, fiestas patrias.
 //
 // Author:
 //   @jorgeepunan
